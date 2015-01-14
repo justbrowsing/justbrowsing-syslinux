@@ -1,0 +1,31 @@
+
+
+
+
+JustBrowsing Keymaps & Locales
+==============================
+keymap=code               Notice:  Chrome requires keymaps to be whitelisted
+locale=code               Warning: several layouts use ibus input
+
+Keymap   Locale  Browser  Name         | Keymap  Locale   Browser  Name
+======== ======  =======  ============ | ======= ======   =======  ==========
+us(intl) af      firefox  Afrikaans    | it      it       both     Italian
+am       am      chrome   Amharic      | jp      ja       both     Japanese
+ara      ar      both     Arabic       | kr      ko       both     Korean
+be       be      firefox  Belarusian   | lv      lv       both     Latvian
+bg       bg      both     Bulgarian    | lt      lt       both     Lithuanian
+br       br      firefox  Breton       | mk      mk       firefox  Macedonian
+ca       ca      both     Catalan      | ml      ml       both     Malayalam
+cn       zh_CN   both     Chinese      | no      no       chrome   Norwegian
+hr       hr      both     Croatian     | pl      pl       both     Polish
+us(intl) nl      both     Dutch        | ro      ro       both     Romanian
+et       et      both     Estonian     | ru      ru       both     Russian
+fi       fi      both     Finnish      | sk      sk       both     Slovak
+fr       fr      both     French       | es      es       both     Spanish
+us       en_US   both     English (US) | se      sv       both     Swedish
+gb       en_GB   both     English (GB) | th      th       both     Thai
+de       de      both     German       | tr      tr       both     Turkish
+gr       el      both     Greek        | tw      zh_TW    both     Taiwanese
+il       he      both     Hebrew       | vn      vi       both     Vietnamese
+hu       hu      both     Hungarian    | us(dvorak) -     -        DVORAK
+is       is      firefox  Icelandic    | 

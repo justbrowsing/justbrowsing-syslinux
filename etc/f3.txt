@@ -1,0 +1,29 @@
+
+
+
+
+
+JustBrowsing Timezones
+==============================
+zone=code
+
+Offset   Code                             Offset   Code
+-11:00   Pacific/Midway                   +04:00   Europe/Moscow
+-10:00   Pacific/Honolulu                 +04:30   Asia/Kabul
+-09:30   Pacific/Marquesas                +05:00   Indian/Maldives
+-09:00   America/Anchorage                +05:30   Asia/Colombo
+-08:00   America/Los_Angeles              +05:45   Asia/Kathmandu
+-07:00   America/Denver                   +06:00   Asia/Bishkek
+-06:00   America/Cancun                   +06:30   Indian/Cocos
+-05:00   America/New_York                 +07:00   Asia/Bangkok
+-04:30   America/Caracas                  +08:00   Asia/Hong_Kong
+-04:00   Atlantic/Bermuda                 +09:00   Asia/Tokyo
+-03:30   America/St_Johns                 +09:30   Australia/Broken_Hill
+-03:00   America/Argentina/Buenos_Aires   +10:00   Australia/Sydney
+-02:00   Atlantic/South_Georgia           +10:30   Australia/Lord_Howe
+-01:00   America/Scoresbysund             +11:00   Antarctica/Casey
++00:00   Europe/London                    +11:30   Pacific/Norfolk
++01:00   Europe/Amsterdam                 +12:00   Pacific/Fiji
++02:00   Africa/Cairo                     +12:45   Pacific/Chatham
++03:00   Asia/Baghdad                     +13:00   Pacific/Apia
++03:30   Asia/Tehran                      +14:00   Pacific/Kiritimati

@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+JustBrowsing Boot Parameters
+============================
+
+default=firefox            Sets default browser to Mozilla Firefox
+default=chrome             Sets default browser to Google Chrome
+display=1024x768           Forces resolution of 1024x768
+display=1366x768           Forces resolution of 1366x768
+gpu=vmware                 Enables VMware GPU driver
+gpu=vbox                   Enables Virtualbox GPU driver
+copytoram=y                Copy entire ISO into RAM
+clean=true                 Force untouched browser profiles
+locale=de                  Sets locale to German
+locale=en_US               Sets locale to English US
+keymap=us                  Sets keymap to USA layout
+keymap=is                  Sets keymap to Iceland layout
+nomodeset                  Needed for some GPUs (disables display=)
+nouveau.modeset=0          Needed for some Nvidia GPUs
+url=https://ddg.gg         Sets homepage to DuckDuckGo
+zone=America/New_York      Sets timezone to New York, USA (EST)
+zone=Europe/Rome           Sets timezone to Rome, Italy (CET)
